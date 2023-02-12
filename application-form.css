@@ -1,0 +1,11 @@
+.form-container{
+    width:100%;
+    background-color: lightgrey;
+    border-radius: 15px;
+    box-shadow: 0 0 4px #5555;
+}
+.form-header{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+}
